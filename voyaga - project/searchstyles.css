@@ -95,7 +95,7 @@ header .logo
   font-weight: 300;
   color:ghostwhite;
   line-height: 1em;
-  letter-spacing: 0.8ch;
+  letter-spacing: 0.3ch;
   
   text-align: left;
 
@@ -107,7 +107,7 @@ header .logo
   margin-top: 5px;
   
   line-height: 2em;
-  letter-spacing: 0.4ch;
+  letter-spacing: 0.25ch;
  
 }
 
