@@ -1,3 +1,14 @@
+/*topNav*/
+function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+
+/*slider*/
 const sliderContainer = document.querySelector('.slider-container')
 const slideRight = document.querySelector('.right-slide')
 const slideLeft = document.querySelector('.left-slide')
