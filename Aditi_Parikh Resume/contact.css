@@ -1,0 +1,23 @@
+
+  * {box-sizing: border-box;}
+
+  body, h1,h2,h3,h4,h5,h6 {
+    font-family: 'Dancing Script', cursive;
+   
+  }
+  .w3-row-padding img {margin-bottom: 12px}
+  .bgimg {
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/img/contactGif.gif');
+    min-height: 100%;
+    height: 100%;
+    margin-right: 5px;
+    padding-right: 15px;
+  }
+
+  .fa {
+      padding-left: 25px;
+      padding-right: 25px;
+  }
